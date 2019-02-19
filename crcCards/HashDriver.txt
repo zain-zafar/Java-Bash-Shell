@@ -1,0 +1,27 @@
+Class name: HashDriver
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Calls the execute class for all commands.
+Collaborators:
+* Cat
+* ChangeDirectory
+* CopyFile
+* Curl
+* EchoAppend
+* EchoOverwrite
+* Exit
+* Find
+* Grep
+* History
+* JShell
+* ListFiles
+* MakeDirectory
+* ManCmd
+* MoveFile
+* Number
+* PopDirectory
+* PrintWorkingDirectory
+* PushDirectory
+* Tree

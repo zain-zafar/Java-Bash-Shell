@@ -1,0 +1,12 @@
+What did I do last time?
+    - I reviewed the feedback given and started investigating areas of improvement for this session
+    - I worked on the Driver class such that Echo and File will now work together properly
+
+What do I plan to do now?
+    - I plan to figure out the best way to implement the Cat class
+    - I plan to discuss with team mates to better approach the design aspect and coding style of the project
+    - I plan to finish my tasks and unit tests by the next sprint
+
+Am I blocked on anything?
+    - Currently blocked on figuring out the best approach for my design implementation
+    - Using HashMap as it's a convenient resource, but first time trying it

@@ -1,0 +1,8 @@
+Class name: Directory
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Create a stack of directories where directories can be pushed into or popped out of at any time.
+Collaborators:
+

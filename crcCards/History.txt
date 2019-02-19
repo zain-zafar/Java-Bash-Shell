@@ -1,0 +1,8 @@
+Class name: History
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Prints the indicated number of recent commands, one command per line.
+Collaborators:
+* Log

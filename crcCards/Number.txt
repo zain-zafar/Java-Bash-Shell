@@ -1,0 +1,8 @@
+Class name: Number
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Retrieve any previous command in the history with a given index.
+Collaborators:
+* History

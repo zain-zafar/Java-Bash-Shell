@@ -1,0 +1,8 @@
+Class name: Commands
+Parent class:
+Subclasses: Echo, History, ManCmd, PopDirectory, PushDirectory, PrintWorkingDirectory, Cat, ListFiles, ChangeDirectory, Exit, MakeDirectory. 
+
+Responsibilities:
+* Keeps track of current directory.
+Collaborators:
+* TrackDirectoriesMade

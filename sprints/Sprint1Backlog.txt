@@ -1,0 +1,38 @@
+//Sprint 1 Backlog.  
+June 15 to June 21
+
+
+Assuming JShell is running and we are able to take user input, then the User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I must be able to gather a history of my commands from the oldest command to the most recent command. I must also be able to specify the number
+of the most recent commands I would like to see.
+b) As a user, I must be able to make a directory relative to the current directory or by a full path.
+c) As a user, I must be able to change the current directory to another by a location relative to the current directory or by a full path.
+d) As a user, I must be able to print out the current working directory.	
+
+
+Specific tasks to be accomplished:
+a-1. (JShell) Begin coding the structure of the command line interpreter
+a-2. (JShell) Have the shell continually prompt the user for input
+b-1. (JShell) Parse the user input for proper keywords
+b-2. (Log) Send all user inputs to Log for storing. 
+c-1. (History) Collabrate with Log to get user input.
+c-2. (History) Format Log/user input for valid printing. 
+d-1. (MakeDirectory) Code the indicated directory.
+d-2. (TrackDirectoriesMade) Keep track of the directory made.
+e-1. (Commands) Create the instance variables and methods, introduce getters and setters and make some variables static so they can store information when the program is run.
+e-2. (TrackDirectoriesMade) Store all directories made (by mkdir), store them in an array for later use. 
+e-3. (PrintWorkingDirectory) Get current directory from Commands class and printing it. 
+
+These tasks are assigned as follows:
+
+User: Kia
+Tasks: a-1, a-2
+
+User: Ryan
+Tasks: b-1, b-2, c-1
+
+User: Anna
+Tasks: c-2, d-1, d-2
+
+User: Syed Zain
+Tasks: e-1, e-2, e-3

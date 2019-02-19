@@ -1,0 +1,30 @@
+Product Backlog
+
+User Stories										Time to Completion
+- As a user, I must be able to exit the program.					1 hour
+- As a user, I must be able to make a directory relative to				2 days
+the current directory or by a full path.						
+- As a user, I must be able to change the current directory				2 days
+to another by a location relative to the current directory or by a full path.
+- As a user, I can print all the contents of my current directory			2 days 
+as well as print a specific file.
+- As a user, I must be able to print out the current working directory.			1 day
+- As a user, I can push the current working directory onto the directory stack,		2 days
+which behaves in a LIFO manner, and save my changes in a new current working 		
+directory that I specify.
+- As a user, I can pop the top (most recent) directory from the directory stack,	2 days
+which behaves in a LIFO manner, and change my current directory into
+one the one popped.
+- As a user, I must be able to gather a history of my commands from the oldest		2 days
+ command to the most recent command. I must also be able to specify the number
+of the most recent commands I would like to see.
+- As a user, I must be able to see the contents of any specified file as well as	3 days
+other files concatenated.
+- As a user, I can request that a string is outputted onto a file by itself.		1 day
+- As a user, I can request that a string is appended onto a file.			1 day
+- As a user, I must be able to print out and see the documentation for CMD.		2 hour
+- As a user, I must be able to find any file of any type				2 days
+by searching in an indicated directory or directories by a relative path
+or an absolute path.
+- As a user, I can request that a tree representation of the directories made           2 days
+from root is to be returned.

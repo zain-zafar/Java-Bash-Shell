@@ -1,0 +1,10 @@
+What did I do last time?
+    - Finished the TrackDirectoriesMade, MakeDirectory, ChangeDirectory classes and added an extra class called ValidateDirectory which changes all relative path directories to absolute path
+
+What do I plan to do now?
+    - Today I will try to implement the Tree class.
+    - As a group we will change the design based on the feedback    we received in the demo.
+    - Finish javaDoc for everything I have comepleted.
+
+Am I blocked on anything?
+    - No.

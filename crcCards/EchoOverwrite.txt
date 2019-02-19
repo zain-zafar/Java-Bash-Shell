@@ -1,0 +1,7 @@
+Class name: EchoOverwrite
+Parent class: Echo
+Subclasses:
+
+Responsibilities:
+* Clears file and adds string to the file.
+Collaborators:

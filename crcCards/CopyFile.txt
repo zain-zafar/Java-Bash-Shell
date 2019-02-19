@@ -1,0 +1,7 @@
+Class name: CopyFile
+Parent class: Move
+Subclasses:
+
+Responsibilities:
+* Recursively copy contents of directory old path
+Collaborators:

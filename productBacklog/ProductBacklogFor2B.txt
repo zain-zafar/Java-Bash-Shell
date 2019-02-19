@@ -1,0 +1,46 @@
+Product Backlog 2
+
+User Stories						        	 Estimated Time to Completion
+(NEW COMMANDS)
+- As a user, I must be able to recursively list			   		7 hours
+all the subdirectories of the given directory or 
+the current directory using ls command.
+- As a user, I must be able to move an item to a 		   		10 hours
+new path. If the new path is a directory, I 
+should be able to move the item into the directory.
+- As a user, I must be able to copy an item to			   		10 hours
+a new path. If the old path is a directory, then
+the content inside should be copied recursively.
+- As a user, I must be able to enter multiple 			   		10 hours
+arguments in the cat command and get a display
+of the contents in each file; if a path is invalid,
+I should see an appropriate error and it should still
+display the contents of the other valid path files.
+- As a user, I must be able to retrieve a file at a 		   	 	2 hours
+given URL and add it to the current working directory.
+- As a user, I must be able to use the exclamation		    		1 hour
+point "!" to execute the history[number] command
+using the command !number.
+- As a user, I must be able to see all my files, 	       			15 hours
+along with their paths, that contain REGEX if I provide 
+"-R". If I don't provide "-R", I must be able to see 
+any lines that contain REGEX in the path that I provide.
+
+(OLD COMMANDS to be implemented/improved (due to new requirements in 2b))
+- As a user, I can push the current working directory 				2 hours
+onto the directory stack, which behaves in a LIFO 
+manner, and save my changes in a new current working 		
+directory that I specify.
+- As a user, I can pop the top (most recent) directory				2 hours
+from the directory stack, which behaves in a LIFO 
+manner, and change my current directory into the one 
+popped.
+- As a user, I must be able to gather a history					3 hours
+of my commands from the oldest command to the most 
+recent command. I must also be able to specify the 
+number of the most recent commands I would like to see.
+- As a user, I must be able to see the contents of 				2 hours
+any specified file as well as other files concatenated.
+- As a user, I must be able to find any file of any type			5 hours
+by searching in an indicated directory or directories 
+by a relative path or an absolute path.

@@ -1,0 +1,7 @@
+Class name: EchoAppend
+Parent class: Echo
+Subclasses:
+ 
+Responsibilities:
+* Appends a string to a file without clearing the file.
+Collaborators:

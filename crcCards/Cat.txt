@@ -1,0 +1,8 @@
+Class name: Cat
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Display all the contents of a file or multiple files.
+Collaborators:
+

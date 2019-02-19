@@ -1,0 +1,9 @@
+Class name: TrackDirectoriesMade
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Keeps track of all directories created.
+Collaborators:
+
+

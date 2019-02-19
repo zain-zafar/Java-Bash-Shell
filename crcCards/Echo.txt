@@ -1,0 +1,9 @@
+Class name: Echo
+Parent class: Commands
+Subclasses: EchoOverwrite, EchoAppend
+
+Responsibilities:
+* Puts string onto an output file or the shell.
+Collaborators:
+* OutputToFile
+* OutputToConsole

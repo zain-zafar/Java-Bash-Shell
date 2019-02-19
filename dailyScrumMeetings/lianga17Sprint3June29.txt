@@ -1,0 +1,12 @@
+What did I do last time? 
+	- I reviewed and implemented the CRC Cards.
+	- Had the demo with a TA and went over design and implementation ideas.
+
+What do I plan to do now?
+	- Rethink a few design aspects to match the marking scheme.
+	- Implement the EchoAppend class.
+	- Work on the Find class with Kia and Ryan.
+
+Am I blocked on anything?
+	- Nothing much, but we are running a little low on time and we need to meet the marking scheme.
+

@@ -1,0 +1,10 @@
+What did I do last time?
+	- worked on pops and pushd
+	- worked on design and tried to make desing meet the adivce of ta
+
+What do I plan to do now?
+	- finish up on the remaing functions suchas pop and push
+	- make find compatible with find
+
+Am I blocked on anything?
+	- Nope

@@ -1,0 +1,8 @@
+Class name: Move
+Parent class: Commands
+Subclasses: MoveFile, CopyFile
+
+Responsibilities:
+* Move a file from an old path to a new path
+Collaborators:
+

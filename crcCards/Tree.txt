@@ -1,0 +1,9 @@
+Class name: Tree
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Prints a tree structure representation of all directories and files.
+Collaborators:
+* OutputToFile
+

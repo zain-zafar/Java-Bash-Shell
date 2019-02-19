@@ -1,0 +1,10 @@
+What did I do last time?
+	- I worked on the Driver class and the implementation of a Hashtable.
+
+What will I do next time?
+	- I will continue to work on the Driver class.
+	- I will also work on any new commands and classes that will be decided after the Sprint Backlog is completed for the second sprint.
+
+Am I blocked on anything?
+	- I am still figuring out a design for the Driver class.
+	_ I might face additional challenges working on the new commands.

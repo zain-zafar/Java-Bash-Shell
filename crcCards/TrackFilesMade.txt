@@ -1,0 +1,10 @@
+Class name: TrackFilesMade
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Keeps track of the files created.
+Collaborators:
+
+
+

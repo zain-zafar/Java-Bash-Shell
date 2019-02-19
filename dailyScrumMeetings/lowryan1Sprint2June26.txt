@@ -1,0 +1,11 @@
+What did I do last time?
+    - I attempted the Echo class and worked more specifically on File and Cat classes
+    - I looked at Zain's implementation of Make Directory and tried to format Make File in a similar way
+
+What do I plan to do now?
+    - I plan to finish File and Cat (and whatever's left except for find & tree) by the meeting tomorrow
+
+Am I blocked on anything?
+    - Currently blocked on figuring out the structure for List of files for Cat
+    - The two new functions find & tree look a bit intimidating but I'm sure we can finish the project by
+    the deadline

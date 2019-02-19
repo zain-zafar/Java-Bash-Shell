@@ -1,0 +1,7 @@
+Class name: Find
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Find files or directories in the given directories that have the indicated name.
+Collaborators:

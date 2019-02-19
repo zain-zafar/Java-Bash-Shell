@@ -1,0 +1,9 @@
+What did I do last time?
+	- Worked on implementing the recursion argument for the ls command. 
+
+What will I do next time?
+	- I will make it possible for Driver class to create multiple instances of shell.
+	- Create a small project which demos the new design.
+
+Am I blocked on anything?
+	- Changing the Driver and JShell class will affect alot of the structure. This might be a problem later on.

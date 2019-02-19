@@ -1,0 +1,13 @@
+What did I do last time?
+	- We switched up the tasks and I completed the Log class and the History class such that commands will be stored and accessed at ease.
+	- As a team, we got together and updated the product backlog and the CRC Cards to account for the new requirements
+
+What do I plan to do now?
+	- I will first implement the echo overwrite command.
+	- Next, I will work on the ls command where it will access the ArrayList and output the correct files.
+	- As part of the group, I will contribute to the Find command.
+	- The Commands class will continuously be updated as new commands are being made.
+	- I will also add and update the Javadocs for previously made classes.
+
+Am I blocked on anything?
+	- The TrackDirectories class must be implemented and running before I can work on the ls command and the find command.

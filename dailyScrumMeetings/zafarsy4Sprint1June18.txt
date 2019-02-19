@@ -1,0 +1,9 @@
+What did I do last time?
+    - I edited the design for A2 part 1 and with my team we created Sprint1Backlog.txt.  
+    - So far I have not worked on the requirements for Sprint1. 
+
+What do I plan to do now?
+    - Starting from June 19th, I will create and finish the implementation of cd and pwd.  
+
+Am I blocked on anything?
+    - I am not really blocked, however, I think it would be easier if I knew how we will take and check user input. If it is the same as A1, then I shouldn't have a problem. 

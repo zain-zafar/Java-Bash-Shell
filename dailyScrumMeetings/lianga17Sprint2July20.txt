@@ -1,0 +1,11 @@
+What did I do last time?
+	- I implemented the Hashtable design in a new driver class called HashDriver.
+	- I updated the CRC Cards to reflect this new design.
+	- I implemented the execute command in most commands classes and they now implement the CommandsInterface interface.
+
+What will I do next time?
+	- I will resolve the conflicts in ListFiles and JShell as well as implement the execute commands in the rest of the classes.
+	- I will also work on the MoveFiles class and the PushDirectory and PopDirectory classes.
+
+Am I blocked on anything?
+	- I will need to figure out the implementation of the MoveFiles class with the Move class.

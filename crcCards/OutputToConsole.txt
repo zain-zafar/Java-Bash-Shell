@@ -1,0 +1,8 @@
+Class name: OutputToConsole
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Prints output data onto the console.
+Collaborators:
+

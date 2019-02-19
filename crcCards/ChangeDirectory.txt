@@ -1,0 +1,8 @@
+Class name: ChangeDirectory
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Change the directory to the one provided.
+Collaborators:
+* ValidateDirectory

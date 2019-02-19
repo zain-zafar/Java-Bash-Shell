@@ -1,0 +1,55 @@
+// **********************************************************
+// Assignment2: JShell
+// Student1: Syed Zain Zafar
+// UTORID user_name: zafarsy4
+// UT Student #: 1002534705
+// Author: Syed Zain Zafar
+//
+// Student2: Anna Liang
+// UTORID user_name: lianga17
+// UT Student #: 1004355976
+// Author: Anna Liang
+//
+// Student3: Ryan Low
+// UTORID user_name: lowryan1
+// UT Student #: 1003215601
+// Author: Ryan Low
+//
+// Student4: Kia Naderi
+// UTORID user_name: naderiki
+// UT Student #: 1002886549
+// Author: Kia Naderi
+//
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC B07 and understand the consequences.
+// *********************************************************
+package driver;
+
+public class MoveFile extends Move {
+  
+  /**
+   * Default constructor.
+   */
+  public MoveFile() {
+
+  }
+  
+  /**
+   * The method that is ran when the mv command is made. This method
+   * calls on its super class to move an item from one path to another.
+   * In addition to its super class, this method removes the old path.
+   * @param shell The JShell object.
+   * @param instanceOfClass An object of the class being executed.
+   * @param cleanedInput The array of the input command in the shell.
+   */
+  public void execute(JShell shell, Object instanceOfClass, 
+      String[] cleanedInput) {
+    // Call the execute method in the Move class
+    super.execute(shell, instanceOfClass, cleanedInput);
+  }
+
+}

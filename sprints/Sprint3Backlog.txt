@@ -1,0 +1,33 @@
+//Sprint 3 Backlog.  
+June 29 to July 2
+
+// Tasks to be completed 
+a) As a user, I can request that a tree representation of the directories made from root is to be returned.
+b) As a user, I must be able to find any file of any type by searching in an indicated directory or directories by a relative path or an absolute path.
+c) As a user, I can request that a string is appended onto a file.
+d) As a user, I can push the current working directory onto the directory stack, which behaves in a LIFO manner, and save my changes in a new current working directory that I specify.
+e) As a user, I can pop the top (most recent) directory from the directory stack, which behaves in a LIFO manner, and change my current directory into one the one popped.
+
+Specific tasks to be accomplished:
+
+a-1. (Tree) Implement the Tree class by collaborating with TrackDirectoriesMade to return a tree representations of all the files and directories from the root.
+
+------------- OLD TASKS TO BE COMPLETED ------------------------------
+b-1. (Find) Implement the Find class by collaborating with TrackDirectoriesMade to get the indicated File or Directory
+c-1. (EchoAppend) Implement the EchoAppend class as a child of the Echo class to append strings to a file.
+d-1. (PushDirectory) Collaborate with Directory class and get the ArrayList of directories and append directory.
+e-1. (PopDirectory) Collaborate with Directory class and get the ArrayList of directories and take out last element.
+
+These tasks are assigned as follows:
+
+User: Kia
+Tasks: b-1, d-1, e-1
+
+User: Ryan
+Tasks: b-1
+
+User: Anna
+Tasks: b-1, c-1
+
+User: Syed Zain
+Tasks: a-1

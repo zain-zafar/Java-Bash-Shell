@@ -1,0 +1,9 @@
+Class name: Log
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Keeps track of recent commands.
+Collaborators:
+
+

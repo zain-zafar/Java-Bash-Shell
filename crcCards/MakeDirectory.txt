@@ -1,0 +1,8 @@
+Class name: MakeDirectory
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+*Creates a directory.
+Collaborators:
+* TrackDirectoriesMade

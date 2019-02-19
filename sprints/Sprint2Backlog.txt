@@ -1,0 +1,45 @@
+//Sprint 2 Backlog.  
+June 22 to June 28
+
+// New tasks to be completed 
+a) As a user, I must be able to make a directory relative to the current directory or by a full path.
+b) As a user, I must be able to change the current directory to another by a location relative to the current directory or by a full path.
+c) As a user, I can push the current working directory onto the directory stack, which behaves in a LIFO manner, and save my changes in a new current working 		
+directory that I specify.
+d) As a user, I can pop the top (most recent) directory from the directory stack, which behaves in a LIFO manner, and change my current directory into
+one the one popped.
+e) As a user, I can request that a string is outputted onto a file by itself.
+f) As a user, I can request that a string is appended onto a file.		
+g) As a user, I must be able to find any file of any type by searching in an indicated directory or directories by a relative path
+or an absolute path.
+h) As a user, I can print all the contents of my current directory, as well as print a specific file.
+
+Specific tasks to be accomplished:
+
+a-1. (MakeDirectory) Code the indicated directory.
+b-1. (ChangeDirectory) Implement the cd command by getting the list of all the directories and comparing if the user input exists inside.
+c-1. (PushDirectory) Collabote with Directory class and get the ArrayList of directories and append directory.
+d-1. (PopDirectory) Collaborate with Directory class and get the ArrayList of directories and take out last element.
+e-1 and f-1. (Echo) Implement both of the echo classes and collaborate with OutputToFile to edit the file.
+g-1. (Find) Implement the Find class by collaborating with TrackDirectoriesMade to get the indicated File or Directory. 
+h-1. (ListFiles) Get the ArrayList of directories and check which files exist inside the indicated directory and OutputToConsole. 
+------------- OLD TASKS TO BE COMPLETED ------------------------------
+i-1. (TrackDirectoriesMade) Store all directories made (by mkdir), store them in an array for later use.
+j-1. (Commands) As we keep implementing more commands, the commands class will also continue to update.
+
+These tasks are assigned as follows:
+
+User: Kia
+Tasks: c-1, d-1
+
+User: Ryan
+Tasks: a-1, f-1
+
+User: Anna
+Tasks: h-1, e-1
+
+User: Syed Zain
+Tasks: i-1, b-1  
+
+User: All Users
+Tasks: g-1, j-1

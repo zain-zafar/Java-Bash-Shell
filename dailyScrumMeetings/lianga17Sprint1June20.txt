@@ -1,0 +1,8 @@
+What did I do last time?
+- Reviewed the CRC Cards and the product and sprint backlogs
+What do I plan to do now?
+- Today I plan on completing the format of the Log for user input.
+- I also plan on starting the code for making the directory.
+- Tomorrow I will finish up on anything left over from today as well as coding keeping track of the directories made.
+Am I blocked on anything?
+- Mostly figuring out how to implement making and keeping track of the directories.

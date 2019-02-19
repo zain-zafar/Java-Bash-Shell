@@ -1,0 +1,12 @@
+What did I do last time?
+    - I looked over the edited CRC Cards and contributed ideas towards the product backlog and Sprint 1
+    - So far, I have been thinking of different ways to implement my tasks assigned in Sprint 1, and 
+    researching how to work with directories in Java
+
+What do I plan to do now?
+    - Starting from June 19th, I will design and implement a parser for user input and have the parser
+    communicate with the History class
+
+Am I blocked on anything?
+    - So far, I am still trying to figure out the proper syntax and coding style I shall be using, and 
+    I believe my tasks will be easier if I could see how the main container JShell would be implemented first 

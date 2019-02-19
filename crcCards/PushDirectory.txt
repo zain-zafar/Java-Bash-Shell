@@ -1,0 +1,9 @@
+Class name: PushDirectory
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Pushes current directory into directory stack and changes directory to the indicated one.
+Collaborators:
+* Directory
+

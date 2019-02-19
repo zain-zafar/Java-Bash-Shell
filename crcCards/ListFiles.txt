@@ -1,0 +1,9 @@
+Class name: ListFiles
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Display names of files or directories in current directory (ls command).
+Collaborators:
+* ValidateDirectory
+

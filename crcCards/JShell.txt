@@ -1,0 +1,12 @@
+Class name: JShell
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Takes in user input and executes the driver class. 
+Collaborators:
+* OutputToFile
+* OutputToConsole
+* Driver
+* File
+* Directory

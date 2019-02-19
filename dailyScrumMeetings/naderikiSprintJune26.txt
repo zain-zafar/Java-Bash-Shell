@@ -1,0 +1,8 @@
+What did I do last time?
+	- Worked on makinf find and changed commands for pushd and popd
+
+What do I plan to do now?
+	- going to work on pops and pushd
+
+Am I blocked on anything?
+	- Nope

@@ -1,0 +1,12 @@
+What did I do last time?
+    - I attempted the mkdir class and added storage methods to hold newly created directories as objects
+    - Tried some test cases to ensure mkdir was functioning appropriately
+
+What do I plan to do now?
+    - Starting from June 22nd, I will finish the implementation for mkdir such that it can function properly
+    with other classes. I will also implement the echo append class and find class
+
+Am I blocked on anything?
+    - I was originally confused about how the directories and files would be stored on the computer but after
+    much clarification, the issue was resolved as I realized that they would only be stored as temporary objects
+    while the JVM is running.

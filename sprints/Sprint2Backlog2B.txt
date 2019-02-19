@@ -1,0 +1,36 @@
+// Sprint 1 Backlog for 2B.
+July 16 to July 23
+
+// Tasks to be completed
+a) As a user, I must be able to retrieve a file at a given URL and add it to the current working directory.
+b) As a user, I must be able to see all my files, along with their paths, that contain REGEX if I provide  "-R". If I don't provide "-R", I must be able to see any lines that contain REGEX in the path that I provide.
+b) As a user, I must be able to enter multiple arguments in the cat command and get a display of the contents in each file; if a path is invalid, I should see an appropriate error and it should still display the contents of the other valid path files.
+c) As a user, I must be able to move an item to a new path. If the new path is a directory, I should be able to move the item into the directory.
+d) As a user, I must be able to copy an item to a new path. If the old path is a directory, then the content inside should be copied recursively.
+
+------------- OLD TASKS TO BE COMPLETED -----------------
+e) As a user, I can pop the top (most recent) directory from the directory stack, which behaves in a LIFO manner, and change my current directory into one the one popped.
+e) As a user, I can push the current working directory onto the directory stack, which behaves in a LIFO manner, and save my changes in a new current working directory that I specify.
+
+Specific tasks to be accomplished:   
+a-1. (File) Check to see if any errors exist when creating a file object and finish implementing the File class.
+a-2. (FileRetrieval) Given a valid URL, collaborate with the file class such that the file contents, along with the file itself, is retrieved and printed.
+b-1. (Cat) Get the list of all the files passed in by user. 
+b-2. (Cat) Loop through each file and check if it is valid. If it is a valid file, print its contents. If it is invalid then raise error for that path.
+b-3. (Cat) Include the REGEX method within Cat so the program can find the proper argument if the argument is included
+c-1. (Move) Implement the move class so items can be moved from one path to another, as long as the path's valid.
+d-1. (Copy) Implement the copy class so items can be copied from one path to another (like move, but retains the original copy), as long as the path's valid.
+e-1. (PopDirectory) Check for errors and finish implementing this class.
+e-2. (PushDirectory) Check for errors in this class and finish the implementation.
+
+User: Ryan
+Tasks: a-1, a-2, b-1, b-2, b-3
+
+User: Anna
+Tasks: c-1
+
+User: Syed Zain
+Tasks: d-1
+
+User: All
+Tasks: e-1, e-2

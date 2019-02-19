@@ -1,0 +1,7 @@
+Class name: OutputToFile
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Prints output data onto a given file.
+Collaborators:

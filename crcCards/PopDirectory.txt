@@ -1,0 +1,9 @@
+Class name: PopDirectory
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Remove the top entry (last element in the directory stack) and change the current directory to it. Raise error if stack is empty.
+Collaborators:
+* Directory
+

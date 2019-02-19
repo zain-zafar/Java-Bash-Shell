@@ -1,0 +1,9 @@
+Class name: ManCmd
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Print the documentation for CMD.
+Collaborators:
+
+

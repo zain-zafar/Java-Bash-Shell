@@ -1,0 +1,10 @@
+Class name: ValidateDirectory
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Change the entered user input/directory to absolute path.
+Collaborators:
+
+
+

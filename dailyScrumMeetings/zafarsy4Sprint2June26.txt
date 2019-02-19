@@ -1,0 +1,10 @@
+What did I do last time?
+	- I upgraded the design of our project by removing unnecessary classes and adding other classes.
+	- I removed InputFromConsole CRC card and added Tree and Find classes. 
+	- I felt like OutputToFile did not need to collaborate with Echo class, instead I am making OutputToFile as a collaborator to Echo.
+	- I had completed mkdir, TrackDirectoriesMade, cd, and created a new class.
+What do I plan to do now?
+	- I have helped implement the ListFiles class command class and plan on checking for more errors once it is finished.
+
+Am I blocked on anything?
+	- No. We are running low on time and need to finish faster. 

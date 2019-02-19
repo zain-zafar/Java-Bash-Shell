@@ -1,0 +1,14 @@
+What did I do last time?
+	- I switched the tasks around and changed design as well. I decided it was best to work on Commands and TrackDirectoriesMade as they are required for successful implementation of MakeDirectory and ChangeDirectory classes.
+	- I completed PrintWorkingDirectory class, worked on Commands, JShell, ChangeDirectory, and TrackDirectoriesMade classes.
+
+What do I plan to do now?
+	- First, I will create the CRC cards for Tree and Find classes.
+	- I will remove the InputFromConsole CRC card as we discussed as group and feel it is not needed.
+	- I will remove the Echo collaborator in the OutputToFile class, and make OutputToFile collaborate with Echo instead.  
+	- Then, I will implement TrackDirectoriesMade class which will utilize ArrayList<ArrayList> to store Directory objects.
+	- Next, I will complete the ChangeDirectory class and make adjustments to Commands when needed.
+	- I will also work on the Find class when I am done the rest of my tasks.
+
+Am I blocked on anything?
+	- No.

@@ -1,0 +1,11 @@
+What did I do last time?
+	- I added new CRC Cards for the new classes that will need to be created for the new requirements.
+	- I found and fixed the bug in the History class that caused the program not to print the specified number of history commands
+	- I made the Number class for the !number command and implemented it in the Driver class.
+
+What will I do next time?
+	- I will try to implement the Hashtable design in the Driver class.
+	- I will change the Commands class such that it does not track the current directory, but that it executes a command
+
+Am I blocked on anything?
+	- I am in the middle of figuring out how to implement the Hashtable design to clean up the code.

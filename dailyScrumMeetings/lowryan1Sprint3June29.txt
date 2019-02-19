@@ -1,0 +1,12 @@
+What did I do last time?
+    - I completed the File, Cat and Man classes from last time
+    - I reviewed the JShell code and implemented my classes into the JShell
+
+What do I plan to do now?
+    - I plan to work together with teammates to complete the find class
+    - I plan to attempt changing the design of some classes such that full requirements are met
+    - I plan to test all classes to ensure they function properly
+
+Am I blocked on anything?
+    - Currently blocked on figuring out a design and implementation for the find class as it's a tough function
+    - Unit testing and how it works

@@ -1,0 +1,12 @@
+What did I do last time?
+	- I completed the Echo superclass as well as the EchoOverwrite class along with all its documentation.
+	- I have reviewed the CRC Cards and Zain's solution to tracking directories and making directories.
+	- I also updated the documentation for the classes I made previously.
+
+What do I plan to do now?
+	- I plan to implement the ls command with the new TrackDirectoriesMade class.
+	- I will also start or, at least, contribute to the Find class since it has not been worked on yet.
+	- Finally, I will review and update the CRC Cards to match any changes to our design.
+
+Am I blocked on anything?
+	- Figuring out how to implement the ls and find command with the TrackDirectoriesMade class.

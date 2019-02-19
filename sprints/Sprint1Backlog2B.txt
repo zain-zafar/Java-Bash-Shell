@@ -1,0 +1,37 @@
+// Sprint 1 Backlog for 2B.
+July 10 to July 16
+
+// Tasks to be completed
+a) As a user, I must be able to recursively list all subdirectories of the given directory or the current directory using ls command.
+b) As a user, I must be able to enter multiple arguments in the cat command and get a display of the contents in each file; if a path is invalid, I should see an appropriate error and it should still display the contents of the other valid path files.
+c) As a user, I must be able to use the exclamation point "!" to execute the history[number] command using the command !number.
+
+------------- OLD TASKS TO BE COMPLETED -----------------
+d) As a user, I must be able to gather a history of my commands from the oldest command to the most recent command. I must also be able to specify the number of recent commands I would like to see.
+e) As a user, I must be able to see the contents of any specified file as well as other files concatenated.
+f) As a user, I can pop the top (most recent) directory from the directory stack, which behaves in a LIFO manner, and change my current directory into one the one popped.
+g) As a user, I can push the current working directory onto the directory stack, which behaves in a LIFO manner, and save my changes in a new current working directory that I specify.
+
+Specific tasks to be accomplished:
+a-1. (ListFiles) Use TrackDirectoriesMade class to receive the arraylist of directories/files and if -R is present, use recursion to list all subdirectories.   
+b-1. (Cat) Get the list of all the files passed in by user. 
+c-1. (Number) Create the NumberHistory class such that it collaborates with History and retrieve a specific command given in the shell.
+c-2. (Number) Implement the NumberHistory class in the Driver class.
+d-1. (History) Find and fix the bug that surfaced at the end of working on Assignment2A.
+e-1. (Cat) Loop through each file and check if it is valid. If it is a valid file, print its contents. If it is invalid then raise error for that path. 
+e-2. (File) Check to see if any errors exist when creating a file object and finish implementing the File class. 
+f-1. (PopDirectory) Check for errors and finish implementing this class.
+g-1. (PushDirectory) Check for errors in this class and finish the implementation. 
+
+
+User: Kia
+Tasks: e-2, f-1, g-1  
+
+User: Ryan
+Tasks: b-1, e-1, e-2
+
+User: Anna
+Tasks: c-1, c-2, d-1
+
+User: Syed Zain
+Tasks: a-1

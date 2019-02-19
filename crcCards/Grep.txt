@@ -1,0 +1,7 @@
+Class name: Grep
+Parent class: Commands
+Subclasses:
+
+Responsibilities:
+* Recursively print all lines containing a given REGEX.
+Collaborators:

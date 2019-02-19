@@ -1,0 +1,8 @@
+Class name: MoveFile
+Parent class: Move
+Subclasses:
+
+Responsibilities:
+* Remove the item from old path
+Collaborators:
+
